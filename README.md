@@ -37,7 +37,7 @@ This sampling frame gives the rules and guidelines on how the sample should look
 
 #SAMPLING TECHNIQUES
 
-#Cluster sampling 
+#Stratified Cluster Random sampling 
 
 level1:
 The sampling method to be used is cluster sampling where the population will be divided into two clusters based on the Border used to cross into the US.
